@@ -11,6 +11,7 @@ products:
 - azure-cognitive-search
 - azure-app-service
 - azure
+
 page_type: sample
 urlFragment: azure-search-openai-demo
 ---
